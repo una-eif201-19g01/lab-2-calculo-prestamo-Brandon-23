@@ -1,0 +1,9 @@
+﻿  CalculoPrestamo.cpp
+c:\users\pc\source\repos\lab-2-calculo-prestamo-brandon-23\calculoprestamo.cpp(13): warning C4244: 'inicializando': conversión de 'int64_t' a 'float'; posible pérdida de datos
+c:\users\pc\source\repos\lab-2-calculo-prestamo-brandon-23\calculoprestamo.cpp(17): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\pc\source\repos\lab-2-calculo-prestamo-brandon-23\calculoprestamo.cpp(21): warning C4805: '==': combinación no segura del tipo 'unsigned int' y el tipo 'bool' en la operación
+  main.cpp
+  Generando código...
+c:\users\pc\source\repos\lab-2-calculo-prestamo-brandon-23\calculoprestamo.cpp(30): warning C4715: 'CalculoPrestamo::calcularTiempoEnMeses': no todas las rutas de acceso de control devuelven un valor
+CalculoPrestamo.obj : error LNK2019: símbolo externo "public: void __thiscall CalculoPrestamo::setMonto(float)" (?setMonto@CalculoPrestamo@@QAEXM@Z) sin resolver al que se hace referencia en la función "public: __thiscall CalculoPrestamo::CalculoPrestamo(void)" (??0CalculoPrestamo@@QAE@XZ)
+C:\Users\pc\Source\Repos\lab-2-calculo-prestamo-Brandon-23\CalculoPrestamo\Debug\CalculoPrestamo.exe : fatal error LNK1120: 1 externos sin resolver
